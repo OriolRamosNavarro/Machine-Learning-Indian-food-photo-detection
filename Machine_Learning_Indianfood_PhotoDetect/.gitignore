@@ -1,0 +1,8 @@
+.github/files/features_dense.pickle
+.github/files/features_harris.pickle
+.github/files/features_mser.pickle
+.github/files/features_sift.pickle
+.github/files/test_data_sift.pickle
+.github/files/train_data_sift.pickle
+.github/files/data_pickle.zip
+.github/files/train_test.zip
